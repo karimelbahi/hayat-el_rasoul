@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">حياه الرسول</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="mogzatelrasol">معجزات الرسول</string>
+
+    <string-array name="HomeArray">
+        <item>حياه الرسول</item>
+        <item>عائله الرسول</item>
+        <item>مائة معجزة عن الرسول</item>
+        <item>غزوات الرسول</item>
+        <item>الخلفاءالراشدون</item>
+        <item>اسماءوقصص الانبياء</item>
+        <item>العشره المبشرين بالجنه</item>
+        <item>صفات اخري عن الرسول</item>
+        <item>وفاه الرسول</item>
+    </string-array>
+
+    <string-array name="hayatArray">
+        <item>ولاده الرسول</item>
+        <item>عام الفيل</item>
+        <item>نزول جبريل على الرسول</item>
+        <item>الدعوة سرا</item>
+        <item>الجهر بالدعوة في قريش</item>
+        <item>بيعة العقبة الأولى</item>
+        <item>بيعة العقبة التانيه</item>
+        <item>الهجرة الأولى إلى الحبشة</item>
+        <item>الهجرة الثانية للحبشة</item>
+        <item>الهجرة إلى الطائف</item>
+        <item>الهجرة إلى المدينة</item>
+    </string-array>
+    <string name="title_activity_main4">Main4Activity</string>
+
+</resources>
